@@ -16,7 +16,7 @@
 
 ### `whoami`
 
-I'm a 5th-semester B.Tech student at **Jamia Millia Islamia, New Delhi**. My focus is on building practical, full-stack applications and exploring machine learning. I enjoy taking data-heavy concepts and turning them into real, deployed products.
+I'm a final year B.Tech student at **Jamia Millia Islamia, New Delhi**. My focus is on building practical, full-stack applications and exploring machine learning. I enjoy taking data-heavy concepts and turning them into real, deployed products.
 
 * **Currently Working On:** Building out applications using the **PERN Stack** (PostgreSQL, Express, React, Node) and training custom machine learning models.
 * **Currently Learning:** Agentic AI, System Design, Backend Services, and Microservices Architecture.
